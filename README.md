@@ -20,7 +20,7 @@
 ---
 
 ### 🛠 Tech Stack
-`Python `Java `JavaScript `React` `NodeJS `PostgreSQL `SpringBoot `Swift` `Kotlin` 
+`Python` `Java` `JavaScript` `React` `NodeJS` `PostgreSQL` `SpringBoot` `Swift` `Kotlin`
 
 ### 📫 Let's Connect!
 - Email: vmarvellinus@gmail.com  
