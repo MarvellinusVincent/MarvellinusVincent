@@ -8,13 +8,13 @@
 ---
 
 ### 💼 Notable Projects
-- 🎓 [Rate My University Life](https://github.com/marvellinus/rate-my-university-life)  
+- 🎓 [Rate My University](http://ratemyuniversity.io)  
   Web application that lets students share and explore university experiences.
 
-- 🎧 [Stat Spot](https://github.com/marvellinus/stat-spot)  
+- 🎧 [Stat Spot](https://github.com/MarvellinusVincent/StatTrack)  
   Spotify listening stats visualizer using OAuth and responsive UI.
 
-- ♟️ [Chess-iOS](https://github.com/marvellinus/chess-ios)  
+- ♟️ [Chess-iOS](https://github.com/MarvellinusVincent/Chess-iOS)  
   A mobile chess game with AI and pass & play mode built for iOS.
   
 ---
