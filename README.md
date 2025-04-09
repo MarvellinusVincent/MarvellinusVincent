@@ -25,4 +25,4 @@
 ### 📫 Let's Connect!
 - Email: vmarvellinus@gmail.com  
 - [LinkedIn](https://www.linkedin.com/in/marvellinusvincent/)  
-- Portfolio: http://marvellinus-vincent-portfolio.onrender.com
+- Portfolio: http://marvellinusvincent.com
