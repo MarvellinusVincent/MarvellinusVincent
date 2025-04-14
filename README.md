@@ -11,11 +11,12 @@
 - 🎓 [Rate My University](http://ratemyuniversity.io)  
   Web application that lets students share and explore university experiences.
 
+- ❄️ [Arctic Depth Theme](https://marketplace.visualstudio.com/items?itemName=MarvellinusVincent.arctic-depth)  
+  A sleek, high-contrast VS Code & terminal theme for developers who love deep blues and futuristic aesthetics.  
+  Also available on [npm](https://www.npmjs.com/package/arctic-depth) and [Zed](https://www.npmjs.com/package/arctic-depth-zed).
+
 - 🎧 [Stat Spot](https://github.com/MarvellinusVincent/StatTrack)  
   Spotify listening stats visualizer using OAuth and responsive UI.
-
-- ♟️ [Chess-iOS](https://github.com/MarvellinusVincent/Chess-iOS)  
-  A mobile chess game with AI and pass & play mode built for iOS.
   
 ---
 
