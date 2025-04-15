@@ -7,6 +7,10 @@
 
 ---
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=blackhat955&color=blueviolet&style=flat" alt="Profile views"/>
+</p>
+
 ### 💼 Notable Projects
 - 🎓 [Rate My University](http://ratemyuniversity.io)  
   Web application that lets students share and explore university experiences.
