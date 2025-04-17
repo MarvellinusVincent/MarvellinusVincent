@@ -30,6 +30,6 @@
 `Python` `Java` `JavaScript` `React` `NodeJS` `PostgreSQL` `SpringBoot` `Swift` `Kotlin`
 
 ### 📫 Let's Connect!
-- Email: vmarvellinus@gmail.com  
-- [LinkedIn](https://www.linkedin.com/in/marvellinusvincent/)  
+- Email: vmarvellinus@gmail.com
+- LinkedIn: https://www.linkedin.com/in/marvellinusvincent
 - Portfolio: http://marvellinusvincent.com
