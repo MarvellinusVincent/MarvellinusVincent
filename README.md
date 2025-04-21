@@ -8,7 +8,7 @@
 ---
 
 <p align="center">
-  ![Profile Views](https://komarev.com/ghpvc/?username=MarvellinusVincent&color=blueviolet&style=flat)
+  <img src="https://komarev.com/ghpvc/?username=MarvellinusVincent&color=blueviolet&style=flat" alt="Profile views"/>
 </p>
 
 ### 💼 Notable Projects
