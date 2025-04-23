@@ -2,7 +2,7 @@
 
 🎓 Recent Computer Science Graduate from Indiana University (Dec '24)  
 🌍 Originally from Jakarta, Indonesia | Currently based in the U.S  
-💻 Aspiring Software Developer | iOS & Web Enthusiast  
+💻 Aspiring Software Developer
 📚 Former TA for Mobile App Development and Data Mining
 
 ---
