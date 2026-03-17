@@ -9,6 +9,10 @@
 
 ### 💼 Notable Projects
 
+- 🎨 [MoodMosaic](https://play.google.com/store/apps/details?id=com.moodmosaic.app&hl=id)  
+  A mental wellness mobile application that helps users track, visualize, and better understand their emotional patterns over time.  
+  Built with React Native and Firebase, it offers real-time cloud synchronization, intuitive mood logging, and interactive data visualizations that reveal trends and insights into personal mental well-being.
+
 - 🎓 [Rate My University](http://ratemyuniversity.io)  
   Web application that lets students share and explore university experiences
 
